@@ -1,0 +1,26 @@
+.text-center {
+  text-align: center;
+}
+
+.bg-red {
+  background-color: red;
+}
+
+.mx-center {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.item-center {
+  align-items: center;
+}
+h1 {
+  color: rgb(196, 184, 184);
+}
